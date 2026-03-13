@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="./assets/cyberpunk-banner.svg" alt="Cyberpunk Anime Banner - Minh Quan" width="100%" />
+</div>
+<div align="center">
 
 ```txt
 ███╗   ███╗██╗███╗   ██╗██╗  ██╗     ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗
