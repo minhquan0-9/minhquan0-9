@@ -15,23 +15,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00e5ff,50:ff00ff,100:00ffa3" width="100%" />
 
 </div>
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=MINH%20QUAN&fontSize=68&color=0:0b0014,25:1a0033,50:2d00f7,75:00e5ff,100:00ffa3&stroke=00e5ff&fontColor=ffffff&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=120&lines=%E2%96%B6+Frontend+Developer+%2F+Student+from+Vietnam;%E2%96%B6+JavaScript+%7C+HTML+%7C+Python;%E2%96%B6+Anime+Heart+%2B+Cyberpunk+Soul" alt="Typing SVG" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=minhquan0-9&label=NEON%20VISITORS&color=00e5ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/minhquan0-9?style=for-the-badge&color=ff00ff&labelColor=0d1117&logo=github&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/minhquan0-9?style=for-the-badge&color=00ffa3&labelColor=0d1117&logo=github&label=TOTAL%20STARS" />
-</p>
-
-</div>
-
----
-
-## `// PROFILE.init()`
 
 ```txt
 > Name        : Minh Quan
