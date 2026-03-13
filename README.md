@@ -59,14 +59,6 @@
 
 
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=minhquan0-9&theme=algolia&no-bg=true&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
----
-
 
 
 <div align="center">
@@ -104,15 +96,6 @@
 
 ---
 
-
-
-<div align="center">
-
-![snake gif](https://github.com/minhquan0-9/minhquan0-9/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 <div align="center">
 
