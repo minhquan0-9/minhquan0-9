@@ -88,7 +88,7 @@
 
 <div align="center">
 
-> ⚠️ Đổi `uid=USERNAME_SPOTIFY_CUA_BAN` thành username Spotify của bạn để hiện bài nhạc thật.
+> 
 
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31re4lsqs7zw2kxywrev2urltu5q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" />
 
