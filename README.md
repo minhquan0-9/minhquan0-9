@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./assets/cyberpunk-banner.svg" alt="Cyberpunk Anime Banner - Minh Quan" width="100%" />
-</div>
-<div align="center">
 
 ```txt
 ███╗   ███╗██╗███╗   ██╗██╗  ██╗     ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗
@@ -62,17 +58,6 @@
 
 
 
-
-
-<div align="center">
-
-> 
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31re4lsqs7zw2kxywrev2urltu5q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" />
-
-</div>
-
----
 
 
 
