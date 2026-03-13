@@ -27,9 +27,8 @@
 > Vibe        : Anime x Cyberpunk
 ```
 
----
 
-## `// TECH_STACK.load()`
+
 
 <div align="center">
 
@@ -46,7 +45,6 @@
 
 ---
 
-## `// STATS.render(neon_theme)`
 
 <div align="center">
 
@@ -59,7 +57,7 @@
 
 ---
 
-## `// TROPHIES.unlock()`
+
 
 <div align="center">
 
@@ -69,7 +67,7 @@
 
 ---
 
-## `// NOW_PLAYING.spotify()`
+
 
 <div align="center">
 
@@ -81,7 +79,7 @@
 
 ---
 
-## `// QUOTE.random(dev_mode=true)`
+
 
 <div align="center">
 
@@ -91,7 +89,7 @@
 
 ---
 
-## `// SOCIAL.connect()`
+
 
 <div align="center">
 
@@ -106,7 +104,7 @@
 
 ---
 
-## `// SNAKE.execute()`
+
 
 <div align="center">
 
