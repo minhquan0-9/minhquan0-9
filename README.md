@@ -8,7 +8,7 @@
 ```
 
 `ミン・クアン | 闇を裂くネオンのコード`  
-`Minh Quan | Neon code that cuts through the dark`
+`Minh Quan | MinMin`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00e5ff,50:ff00ff,100:00ffa3" width="100%" />
 
@@ -22,7 +22,6 @@
 > Location    : Vietnam
 > Languages   : JavaScript, HTML, Python
 > Main Tool   : VSCode
-> Vibe        : Anime x Cyberpunk
 ```
 
 
@@ -41,17 +40,6 @@
 
 </div>
 
----
-
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhquan0-9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=ff00ff&text_color=c9d1d9&ring_color=00ffa3" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquan0-9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" />
-
-<img height="180em" src="https://streak-stats.demolab.com?user=minhquan0-9&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FF00FF&currStreakLabel=00FFA3" />
-
-</div>
 
 ---
 
